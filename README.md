@@ -9,5 +9,5 @@ Download and Install Old Versions of Rainbow Six Siege Easily For Free
 5. Go to `Home` tab and play the game. (To play multiplayer use [RadminVPN](https://www.radmin-vpn.com/), Join the [Discord Server](https://discord.gg/fnVQUCyuh6) to find other players easily).
 6. Enjoy the old siege 🙂.
 
-![image](https://github.com/JunaidIRF/FreeSiegeLauncher/assets/61500818/db801c8f-ea90-4fdf-a3fc-c206d914c630)
+![image](https://github.com/JunaidIRF/FreeSiegeLauncher/assets/61500818/88e7c8c9-e931-467c-9de8-1925e62270a3)
 ![image](https://github.com/JunaidIRF/FreeSiegeLauncher/assets/61500818/8dfa173a-34c0-4f48-b5e6-0d3b2d090321)
