@@ -3,7 +3,7 @@ Download and Install Old Versions of Rainbow Six Siege Easily For Free
 
 ## Installation
 1. Download [FreeSiegeLauncher.zip](https://github.com/JunaidIRF/FreeSiegeLauncher/releases/latest) or [FreeSiegeLauncher.7z](https://github.com/JunaidIRF/FreeSiegeLauncher/releases/latest).
-2. Extract the zip or 7z anywhere you want and launch `FreeSiegeLauncher.exe`. (To extract 7z use [7-zip](https://www.7-zip.org/download.html))
+2. Extract the *.zip or *.7z anywhere you want and launch `FreeSiegeLauncher.exe`. (To extract 7z use [7-zip](https://www.7-zip.org/download.html))
 3. Change your username in `Settings` tab.
 4. Go to `Install` tab and install any version you want. (If you already have the game installed, select the version and click on gear icon and press `Locate Folder` and select the `RainbowSix.exe` of the specific version).
 5. Go to `Home` tab and play the game. (To play multiplayer use [RadminVPN](https://www.radmin-vpn.com/), Join the [Discord Server](https://discord.gg/fnVQUCyuh6) to find other players easily).
