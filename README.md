@@ -1,5 +1,16 @@
 # FreeSiegeLauncher
-Download and Install Old Versions of Rainbow Six Siege Easily For Free
+
+# ⚠️ DEPRECATED
+
+**FreeSiegeLauncher is now deprecated and is no longer maintained.**
+
+Rainbow Six Siege is now **free to play on Steam**, so you no longer need FreeSiegeLauncher to obtain the game. If you want to download **older versions of Rainbow Six Siege**, you can use [DepotDownloader](https://github.com/SteamRE/DepotDownloader) instead.
+
+The original FreeSiegeLauncher instructions are kept below for archival purposes.
+
+---
+
+## Download and Install Old Versions of Rainbow Six Siege Easily For Free
 
 ## Installation
 1. Install [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.5-windows-x64-installer) if it is not installed.
